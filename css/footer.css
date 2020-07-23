@@ -1,0 +1,114 @@
+ .footer-top {
+  border: 1px solid rgba(245, 245, 245, 0.08);
+  background-color: #19242a; }
+  .footer-top .name-site-name_footer {
+    margin-top: 21px;
+    color: #547e93; }
+  .footer-top .name-site_footer {
+    margin: 19px 0 27px 0; }
+  .footer-top-container {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    max-width: 1200px;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    margin: 0 auto;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap; }
+  .footer-top__item {
+    width: 270px;
+    padding-bottom: 22px;
+    margin: 15px; }
+  .footer-top__content_item {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    max-width: 193px; }
+  .footer-top__text-head {
+    color: gray;
+    font-family: "Course New";
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 20px;
+    margin-top: 38px;
+    margin-bottom: 38px; }
+  .footer-top__text {
+    color: gray;
+    font-family: "Course New";
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px; }
+  .footer-top__text3 {
+    min-width: 162px;
+    margin-left: auto;
+    margin-right: 0;
+    margin-bottom: 26px; }
+  .footer-top__text_hine-h {
+    line-height: 18px; }
+  .footer-top__text-head-in-bot {
+    margin-top: 0px;
+    margin-bottom: 29px; }
+  .footer-top__text_small {
+    font-size: 10px;
+    text-transform: uppercase; }
+  .footer-top__text_bigger {
+    color: #FFE4E1;
+    font-family: "Course New";
+    font-size: 13px; }
+  .footer-top__line {
+    width: 270px;
+    height: 1px;
+    background-color: #23323a;
+    margin-top: 17px;
+    margin-bottom: 16px; }
+  .footer-top__select-container {
+    margin-bottom: 26px;
+    background: url("../img/icons/check.png") no-repeat center right 12px #23323a;
+    overflow: hidden;
+    height: 39px;
+    width: 270px;
+    margin-top: 21px; }
+  .footer-top__select {
+    background: transparent;
+    border-radius: 0;
+    border: 1px solid #23323a;
+    width: 300px;
+    height: 39px;
+    padding: 0;
+    padding-left: 15px;
+    font-size: 14px; }
+  .footer-top__option {
+    background-color: #23323a; }
+  .footer-top__img-icon {
+    margin-left: 3px;
+    margin-top: 5px; }
+  .footer-top__text-con1 {
+    max-width: 249px; }
+  .footer-top__text-con2 {
+    max-width: 240px;
+    margin-top: 4px; }
+
+.rules {
+  background-color: #141d22; }
+  .rules-container {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 24px 15px 18px 15px; }
+  .rules__text {
+    color: #D3D3D3;
+    font-family: "Course New";
+    font-size: 12px;
+    font-weight: 400; }
+  .rules__text_big {
+    text-transform: uppercase; }
